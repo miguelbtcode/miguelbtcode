@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/miguelbtcode/miguelbtcode/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/miguelbtcode/miguelbtcode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
