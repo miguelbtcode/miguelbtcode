@@ -18,7 +18,7 @@
 
 ###
 
-- 🔭 I’m currently working at [BCP](https://www.viabcp.com/)
+- 🔭 I’m currently working at [Banco de Crédito del Perú](https://www.viabcp.com/)
 - 🌱 I’m currently learning **Azure platform, Clean Architecture with ASP.NET**
 - 📝 I regularly read articles on [w3schools](https://www.w3schools.com/asp/default.asp)
 - 💬 Ask me about **Angular, ASP.NET Core, PL/SQL**
