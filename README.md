@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working at [https://www.viabcp.com/](https://www.viabcp.com/)<br><br>- 🌱 I’m currently learning **Azure platform, Clean Architecture with ASP.NET**<br><br>- 📝 I regularly read articles on [https://www.w3schools.com/asp/default.asp](https://www.w3schools.com/asp/default.asp)<br><br>- 💬 Ask me about **Angular, ASP.NET Core, PL/SQL**<br><br>- 📫 How to reach me **mabt2206@gmail.com**</p>
+<p align="left">- 🔭 I’m currently working at https://www.viabcp.com/ <br><br>- 🌱 I’m currently learning **Azure platform, Clean Architecture with ASP.NET**<br><br>- 📝 I regularly read articles on [https://www.w3schools.com/asp/default.asp](https://www.w3schools.com/asp/default.asp)<br><br>- 💬 Ask me about **Angular, ASP.NET Core, PL/SQL**<br><br>- 📫 How to reach me **mabt2206@gmail.com**</p>
 
 ###
 
