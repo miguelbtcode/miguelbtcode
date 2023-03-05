@@ -18,11 +18,13 @@
 
 ###
 
-- 🔭 I’m currently working at [Banco de Crédito del Perú](https://www.viabcp.com/)
+- 🏦 I currently work as a software engineer at [Banco de Crédito del Perú](https://www.viabcp.com/)
+- 💻 I use daily: **.cs, .js, .java, .sql** 
 - 🌱 I’m currently learning **Azure platform, Clean Architecture with ASP.NET**
-- 📝 I regularly read articles on [w3schools](https://www.w3schools.com/asp/default.asp)
+- 📖 I’m currently reading **Clean Code by Robert** C. Martin
 - 💬 Ask me about **Angular, ASP.NET Core, PL/SQL**
 - 📫 How to reach me **mabt2206@gmail.com**
+- 🧑‍💻 Tech I work on :
 
 ###
 
