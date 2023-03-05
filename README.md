@@ -2,7 +2,17 @@
 
 ###
 
-<h3 align="center">I'm a backend developer from Perú</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/miguel-barreto-torres-2b6b8a1b6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/MiguelBCode" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mabt2206@gmail.com&su=HI_MIGUEL_FROM_GITHUB&body=&tf=cm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
