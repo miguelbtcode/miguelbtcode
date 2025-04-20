@@ -4,7 +4,7 @@
     <img 
       src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
       alt="Full Stack Developer Banner" 
-      style="width:1000px; height:450px; object-fit:cover;"
+      style="width:1000px; height:480px; object-fit:cover;"
     />
   </a>
 </div>
