@@ -11,7 +11,7 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Hello 👋 I'm Miguel Barreto</h1>
+<h1 align="center">Hello 👋 </br> I'm Miguel Barreto</h1>
 <h4 align="left">🌟 Full-stack developer exploring web technologies, DevOps, and the intersection of software engineering with data science and AI. Continuously expanding my skills and knowledge in the IT field.</h4>
 
 <div align="center">
