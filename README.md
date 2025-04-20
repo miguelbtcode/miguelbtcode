@@ -2,7 +2,7 @@
 <div align="center">
   <a href="#">
     <img 
-      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+      src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
       alt="Full Stack Developer Banner" 
       style="width:100%; height:400px; object-fit:cover;"
     />
@@ -32,4 +32,7 @@
 </div>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
