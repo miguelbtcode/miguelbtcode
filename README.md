@@ -5,7 +5,7 @@
 </a>
 <!-- Greeting -->
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+Miguel Barreto+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 <div align="center">
     <a href="https://github.com/[TuNombreDeUsuario]"> <img width="162px" src="https://komarev.com/ghpvc/?username=[TuNombreDeUsuario]&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views" /></a>
     <a href="https://api.github-star-counter.workers.dev/user/[TuNombreDeUsuario]"> <img width="115px" alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/[TuNombreDeUsuario]"
