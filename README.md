@@ -9,21 +9,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miguelbtcode&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=[TU-USERNAME]&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-## 📊 GitHub Analytics & Contribution Graph
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+Estadísticas+de+GitHub" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbtcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Lenguajes+Más+Usados" alt="Top Languages"/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelbtcode&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelbtcode&bg_color=0D1117&color=A8B2D1&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=📈+Gráfico+de+Contribuciones" alt="GitHub Activity Graph" width="98%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelbtcode&theme=radical" alt="GitHub Profile Summary" width="98%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Top+Languages" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[TU-USERNAME]&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
 
 </div>
 
@@ -31,7 +25,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ### 👨‍💻 Desarrollador Full Stack
 Soy un **desarrollador apasionado** por crear soluciones tecnológicas que generen impacto. Me especializo en desarrollo full-stack y disfruto enfrentando nuevos desafíos que me permitan crecer profesionalmente.
@@ -42,20 +36,24 @@ Soy un **desarrollador apasionado** por crear soluciones tecnológicas que gener
 - 👯 **Colaborando en:** Proyectos open source
 - 💬 **Especialidades:** .NET, Spring Boot, React, AWS
 
-</td>
-<td width="50%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding GIF"/>
-</div>
-
-### 📊 Mi Viaje de Código
+### 📊 **Quick Stats**
 ```
 🏆 Proyectos Completados: 25+
 ⚡ Contribuciones este año: 500+
 🌟 Repositorios públicos: 15+
 🔥 Streak actual: 30 días
 ```
+
+</td>
+<td width="45%">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding GIF"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=[TU-USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+GitHub+Stats" alt="GitHub Stats" width="100%"/>
+</div>
 
 </td>
 </tr>
