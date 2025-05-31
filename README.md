@@ -9,21 +9,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[TU-USERNAME]&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=miguelbtcode&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 📊 GitHub Analytics & Contribution Graph
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[TU-USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+Estadísticas+de+GitHub" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Lenguajes+Más+Usados" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+Estadísticas+de+GitHub" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbtcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Lenguajes+Más+Usados" alt="Top Languages"/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=[TU-USERNAME]&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelbtcode&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[TU-USERNAME]&bg_color=0D1117&color=A8B2D1&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=📈+Gráfico+de+Contribuciones" alt="GitHub Activity Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelbtcode&bg_color=0D1117&color=A8B2D1&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=📈+Gráfico+de+Contribuciones" alt="GitHub Activity Graph" width="98%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[TU-USERNAME]&theme=radical" alt="GitHub Profile Summary" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelbtcode&theme=radical" alt="GitHub Profile Summary" width="98%"/>
 
 </div>
 
