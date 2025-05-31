@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Miguel Barreto
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa;Creando+soluciones+innovadoras;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -112,7 +112,7 @@ Soy un **desarrollador apasionado** por crear soluciones tecnológicas que gener
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU-USERNAME]&color=blueviolet&style=for-the-badge&label=Visitantes+del+Perfil" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=miguelbtcode&color=blueviolet&style=for-the-badge&label=Visitantes+del+Perfil" alt="Profile Views"/>
 </div>
 
 <div align="center">
