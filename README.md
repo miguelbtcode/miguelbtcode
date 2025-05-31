@@ -52,7 +52,7 @@ Soy un **desarrollador apasionado** por crear soluciones tecnológicas que gener
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[TU-USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+GitHub+Stats" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+GitHub+Stats" alt="GitHub Stats" width="100%"/>
 </div>
 
 </td>
@@ -153,10 +153,6 @@ console.log("¡Construyendo el futuro línea por línea! 🔥");
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[TU-USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=Mis+Estadísticas" alt="GitHub Stats" width="100%"/>
 </div>
 
 </td>
