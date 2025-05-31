@@ -1,4 +1,4 @@
-# <div align="center">🚀 ¡Hola! Soy Miguel Barreto 🚀</div>
+# <div align="center">🚀 ¡Hola! Soy [Tu Nombre] 🚀</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Transformando%20ideas%20en%20c%C3%B3digo%20%F0%9F%92%A1&descAlignY=51&descAlign=50"/>
@@ -16,8 +16,8 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Top+Languages" alt="Top Languages"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[TU-USERNAME]&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbtcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Top+Languages" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelbtcode&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
 
 </div>
 
