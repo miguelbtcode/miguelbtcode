@@ -8,14 +8,37 @@
 
 ## 🚀 Sobre Mí
 
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Desarrollador Full Stack
 Soy un **desarrollador apasionado** por crear soluciones tecnológicas que generen impacto. Me especializo en desarrollo full-stack y disfruto enfrentando nuevos desafíos que me permitan crecer profesionalmente.
 
-- 🔭 Actualmente trabajando en: **[Proyecto Principal]**
-- 🌱 Aprendiendo: **[Tecnología que estás estudiando]**
-- 👯 Buscando colaborar en: **Proyectos open source**
-- 💬 Pregúntame sobre: **JavaScript, Python, React, Node.js**
-- 📫 Cómo contactarme: **[tu.email@ejemplo.com]**
-- ⚡ Dato curioso: **[Algo interesante sobre ti]**
+**🎯 Enfoque Actual:**
+- 🔭 **Trabajando en:** [Proyecto Principal]
+- 🌱 **Aprendiendo:** [Tecnología Nueva]
+- 👯 **Colaborando en:** Proyectos open source
+- 💬 **Especialidades:** .NET, Spring Boot, React, AWS
+
+</td>
+<td width="50%">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding GIF"/>
+</div>
+
+### 📊 Mi Viaje de Código
+```
+🏆 Proyectos Completados: 25+
+⚡ Contribuciones este año: 500+
+🌟 Repositorios públicos: 15+
+🔥 Streak actual: 30 días
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,16 +73,48 @@ Soy un **desarrollador apasionado** por crear soluciones tecnológicas que gener
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🎯 Mi Enfoque de Desarrollo
+
+<table>
+<tr>
+<td width="55%">
+
+### 🚀 **Metodología de Trabajo**
+
+```javascript
+const miEnfoque = {
+    frontend: ["React", "HTML5", "CSS3", "JavaScript"],
+    backend: [".NET Core", "Spring Boot", "API REST"],
+    database: ["SQL Server", "MySQL", "PostgreSQL"],
+    cloud: ["AWS", "Docker", "CI/CD"],
+    tools: ["Git", "VS Code", "Postman"],
+    learning: "Siempre explorando nuevas tecnologías",
+    passion: "Crear soluciones que impacten positivamente"
+};
+
+console.log("¡Construyendo el futuro línea por línea! 🔥");
+```
+
+### 📈 **Crecimiento Continuo**
+- 🧠 **Mentalidad:** Growth mindset
+- 📚 **Aprendizaje:** Autodidacta y curioso
+- 🤝 **Colaboración:** Team player
+- 💡 **Innovación:** Pensamiento creativo
+
+</td>
+<td width="45%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU-USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[TU-USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=Mis+Estadísticas" alt="GitHub Stats" width="100%"/>
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,7 +167,7 @@ Soy un **desarrollador apasionado** por crear soluciones tecnológicas que gener
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguelbtcode&color=blueviolet&style=for-the-badge&label=Visitantes+del+Perfil" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=[TU-USERNAME]&color=blueviolet&style=for-the-badge&label=Visitantes+del+Perfil" alt="Profile Views"/>
 </div>
 
 <div align="center">
