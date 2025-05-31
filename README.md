@@ -1,4 +1,4 @@
-# <div align="center">🚀 ¡Hola! Soy [Tu Nombre] 🚀</div>
+# <div align="center">🚀 ¡Hola! Soy Miguel Barreto 🚀</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Transformando%20ideas%20en%20c%C3%B3digo%20%F0%9F%92%A1&descAlignY=51&descAlign=50"/>
@@ -8,25 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%94%A5+Desarrollador+.NET+%7C+Spring+Boot;%E2%9A%A1+React+%7C+AWS+Cloud+Architect;%F0%9F%9A%80+Creando+soluciones+innovadoras;%F0%9F%92%8E+Code+is+Poetry+in+Motion" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miguelbtcode&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbtcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Top+Languages" alt="Top Languages"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelbtcode&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
-
-</div>
-
 ## 🚀 Sobre Mí
 
 <table>
 <tr>
-<td width="55%">
-
+<td width="50%">
+  
 ### 👨‍💻 Desarrollador Full Stack
 Soy un **desarrollador apasionado** por crear soluciones tecnológicas que generen impacto. Me especializo en desarrollo full-stack y disfruto enfrentando nuevos desafíos que me permitan crecer profesionalmente.
 
@@ -36,24 +23,20 @@ Soy un **desarrollador apasionado** por crear soluciones tecnológicas que gener
 - 👯 **Colaborando en:** Proyectos open source
 - 💬 **Especialidades:** .NET, Spring Boot, React, AWS
 
-### 📊 **Quick Stats**
+</td>
+<td width="50%">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding GIF"/>
+</div>
+
+### 📊 Mi Viaje de Código
 ```
 🏆 Proyectos Completados: 25+
 ⚡ Contribuciones este año: 500+
 🌟 Repositorios públicos: 15+
 🔥 Streak actual: 30 días
 ```
-
-</td>
-<td width="45%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding GIF"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+GitHub+Stats" alt="GitHub Stats" width="100%"/>
-</div>
 
 </td>
 </tr>
@@ -155,21 +138,31 @@ console.log("¡Construyendo el futuro línea por línea! 🔥");
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
 </div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=Mis+Estadísticas" alt="GitHub Stats" width="100%"/>
+</div>
+
 </td>
 </tr>
 </table>
 
 ---
 
+## 🏆 Github recognition
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miguelbtcode&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
 ## 🏆 Proyectos Destacados
 
 <div align="center">
 
-<a href="https://github.com/[TU-USERNAME]/[REPO-NAME]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU-USERNAME]&repo=[REPO-NAME]&theme=tokyonight&hide_border=true" alt="Readme Card"/>
+<a href="https://github.com/miguelbtcode/[REPO-NAME]">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelbtcode&repo=[REPO-NAME]&theme=tokyonight&hide_border=true" alt="Readme Card"/>
 </a>
-<a href="https://github.com/[TU-USERNAME]/[REPO-NAME]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU-USERNAME]&repo=[REPO-NAME]&theme=tokyonight&hide_border=true" alt="Readme Card"/>
+<a href="https://github.com/miguelbtcode/[REPO-NAME]">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelbtcode&repo=[REPO-NAME]&theme=tokyonight&hide_border=true" alt="Readme Card"/>
 </a>
 
 </div>
@@ -188,6 +181,21 @@ console.log("¡Construyendo el futuro línea por línea! 🔥");
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+## 📊 GitHub Analytics & Contribution Graph
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+Estadísticas+de+GitHub" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbtcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Lenguajes+Más+Usados" alt="Top Languages"/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelbtcode&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelbtcode&bg_color=0D1117&color=A8B2D1&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=📈+Gráfico+de+Contribuciones" alt="GitHub Activity Graph" width="98%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelbtcode&theme=radical" alt="GitHub Profile Summary" width="98%"/>
+
+</div>
 
 ---
 
@@ -211,9 +219,9 @@ console.log("¡Construyendo el futuro línea por línea! 🔥");
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU-USERNAME]&color=blueviolet&style=for-the-badge&label=👁️+VISITANTES"/>
-  <img src="https://img.shields.io/github/followers/[TU-USERNAME]?label=Seguidores&style=for-the-badge&color=blue&labelColor=blue"/>
-  <img src="https://img.shields.io/github/stars/[TU-USERNAME]?label=Estrellas+Totales&style=for-the-badge&color=yellow&labelColor=yellow"/>
+  <img src="https://komarev.com/ghpvc/?username=miguelbtcode&color=blueviolet&style=for-the-badge&label=👁️+VISITANTES"/>
+  <img src="https://img.shields.io/github/followers/miguelbtcode?label=Seguidores&style=for-the-badge&color=blue&labelColor=blue"/>
+  <img src="https://img.shields.io/github/stars/miguelbtcode?label=Estrellas+Totales&style=for-the-badge&color=yellow&labelColor=yellow"/>
 </div>
 
 <div align="center">
