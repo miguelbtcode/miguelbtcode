@@ -1,241 +1,68 @@
-# <div align="center">🚀 ¡Hola! Soy Miguel Barreto 🚀</div>
+# Welcome, I'm Miguel Barreto 👋 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Transformando%20ideas%20en%20c%C3%B3digo%20%F0%9F%92%A1&descAlignY=51&descAlign=50"/>
-</div>
+### Software Engineer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%94%A5+Desarrollador+.NET+%7C+Spring+Boot;%E2%9A%A1+React+%7C+AWS+Cloud+Architect;%F0%9F%9A%80+Creando+soluciones+innovadoras;%F0%9F%92%8E+Code+is+Poetry+in+Motion" alt="Typing SVG" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miguelbtcode&theme=dark&hide_border=true&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
 
-## 🚀 Sobre Mí
+## 🧑‍💻 About me
 
-<table>
-<tr>
-<td width="50%">
-  
-### 👨‍💻 Desarrollador Full Stack
-Soy un **desarrollador apasionado** por crear soluciones tecnológicas que generen impacto. Me especializo en desarrollo full-stack y disfruto enfrentando nuevos desafíos que me permitan crecer profesionalmente.
+I’m a passionate Software Engineer focused on building robust, efficient, and scalable technological solutions. While I specialize in backend development, I also enjoy working with modern frontend technologies and exploring new tools in the tech ecosystem.
 
-**🎯 Enfoque Actual:**
-- 🔭 **Trabajando en:** [Proyecto Principal]
-- 🌱 **Aprendiendo:** [Tecnología Nueva]
-- 👯 **Colaborando en:** Proyectos open source
-- 💬 **Especialidades:** .NET, Spring Boot, React, AWS
+🧠 I love solving complex problems with clean and maintainable solutions.
+</br>
+💬 I'm interested in sharing knowledge, learning in community, and building meaningful products.
+</br>
+🌱 Currently learning more about software architecture, microservices, and DevOps.
+</br>
+🛠️ Always exploring new tools, frameworks, and development best practices.
+</br>
+🎯 Goal: to contribute to teams where code quality and innovation are top priorities.
+</br>
 
-</td>
-<td width="50%">
+## 🛠️ Technologies
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" alt="Coding GIF"/>
-</div>
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react) ![NextJS](https://skillicons.dev/icons?i=nextjs) ![Javascript](https://skillicons.dev/icons?i=js) ![Typescript](https://skillicons.dev/icons?i=ts) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### 📊 Mi Viaje de Código
-```
-🏆 Proyectos Completados: 25+
-⚡ Contribuciones este año: 500+
-🌟 Repositorios públicos: 15+
-🔥 Streak actual: 30 días
-```
+**Backend**  
+![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
 
-</td>
-</tr>
-</table>
+**Base de Datos**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
----
+**DevOps / Herramientas**  
+![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![AWS](https://skillicons.dev/icons?i=aws)
 
-## 🛠️ Arsenal Tecnológico
+**Diseño / Otros**  
+![Figma](https://skillicons.dev/icons?i=figma) ![VSC](https://skillicons.dev/icons?i=vscode) ![Markdown](https://skillicons.dev/icons?i=md)
 
-<div align="center">
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-<br><strong>C# / .NET</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<br><strong>Spring Boot</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<br><strong>AWS Cloud</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br><strong>Git & GitHub</strong>
-</td>
-</tr>
-</table>
+Here are some of the most relevant projects I've worked on, showcasing my skills in backend development, clean architecture, microservices, and cloud-native applications:
 
-### 🎨 Frontend Mastery
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Skills"/>
+🛒 **[Shopping Microservices with Kubernetes](https://github.com/miguelbtcode/shopping-microservices-k8s)**
+A cloud-native e-commerce system using microservices architecture with .NET, ASPNETCore MVC (Client), MongoDB (Database No Relational), and deployed on Kubernetes. Focused on scalability, resilience, and observability.
 
-### ⚙️ Backend Excellence  
-<img src="https://skillicons.dev/icons?i=dotnet,java,spring,nodejs,express,postman" alt="Backend Skills"/>
+⛅ **[Weather Dashboard](https://github.com/alexandercamachodev/auth-api)**  
+A responsive dashboard built with React and OpenWeatherMap API. It provides real-time weather updates and forecasts, featuring modern frontend design and state management.
 
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker,kubernetes" alt="Database & Cloud"/>
+🚗 **[Vehicle Rental System - Clean Architecture](https://github.com/miguelbtcode/vehicle-rental-clean-architecture)**  
+Backend system for a vehicle rental application, designed with Clean Architecture principles using .NET. Emphasizes domain-driven design, separation of concerns, and testability.
 
-### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jenkins,linux" alt="Tools"/>
+## 📎 Links
 
-</div>
+[![Website](https://img.shields.io/badge/Website-MiguelBarretoPortfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://miguelbarretodev.vercel.app
+)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/fta_capa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@MiguelBarreto-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguelbarretotorres/)
+[![Blog](https://img.shields.io/badge/Blog-miguelbtcode-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://miguelbarretodev.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-FE7A16?style=flat&logo=github&logoColor=white)](https:)
+
+
+## 📬 Contacto
+
+[![Email](https://img.shields.io/badge/mabt2206@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mabt2206@gmail.com)
 
 ---
 
-## 🎯 Mi Enfoque de Desarrollo
-
-<table>
-<tr>
-<td width="55%">
-
-### 🚀 **Metodología de Trabajo**
-
-```javascript
-const miEnfoque = {
-    frontend: ["React", "HTML5", "CSS3", "JavaScript"],
-    backend: [".NET Core", "Spring Boot", "API REST"],
-    database: ["SQL Server", "MySQL", "PostgreSQL"],
-    cloud: ["AWS", "Docker", "CI/CD"],
-    tools: ["Git", "VS Code", "Postman"],
-    learning: "Siempre explorando nuevas tecnologías",
-    passion: "Crear soluciones que impacten positivamente"
-};
-
-console.log("¡Construyendo el futuro línea por línea! 🔥");
-```
-
-### 📈 **Crecimiento Continuo**
-- 🧠 **Mentalidad:** Growth mindset
-- 📚 **Aprendizaje:** Autodidacta y curioso
-- 🤝 **Colaboración:** Team player
-- 💡 **Innovación:** Pensamiento creativo
-
-</td>
-<td width="45%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=Mis+Estadísticas" alt="GitHub Stats" width="100%"/>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Github recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miguelbtcode&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-## 🏆 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/miguelbtcode/[REPO-NAME]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelbtcode&repo=[REPO-NAME]&theme=tokyonight&hide_border=true" alt="Readme Card"/>
-</a>
-<a href="https://github.com/miguelbtcode/[REPO-NAME]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelbtcode&repo=[REPO-NAME]&theme=tokyonight&hide_border=true" alt="Readme Card"/>
-</a>
-
-</div>
-
----
-
-## 🌟 Contribuciones Open Source
-
-- 🔥 **[Nombre del Proyecto]** - Descripción breve de tu contribución
-- ⭐ **[Nombre del Proyecto]** - Descripción breve de tu contribución
-- 🚀 **[Nombre del Proyecto]** - Descripción breve de tu contribución
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📊 GitHub Analytics & Contribution Graph
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=miguelbtcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1&custom_title=⚡+Estadísticas+de+GitHub" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbtcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1&custom_title=🔥+Lenguajes+Más+Usados" alt="Top Languages"/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelbtcode&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=A8B2D1&currStreakNum=F8D866&sideNums=A8B2D1&sideLabels=A8B2D1&dates=A8B2D1" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelbtcode&bg_color=0D1117&color=A8B2D1&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=📈+Gráfico+de+Contribuciones" alt="GitHub Activity Graph" width="98%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelbtcode&theme=radical" alt="GitHub Profile Summary" width="98%"/>
-
-</div>
-
----
-
-## 🤝 Conecta Conmigo & Sígueme
-
-<div align="center">
-
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-</a>
-<a href="https://">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
-</a>
-<a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguelbtcode&color=blueviolet&style=for-the-badge&label=👁️+VISITANTES"/>
-  <img src="https://img.shields.io/github/followers/miguelbtcode?label=Seguidores&style=for-the-badge&color=blue&labelColor=blue"/>
-  <img src="https://img.shields.io/github/stars/miguelbtcode?label=Estrellas+Totales&style=for-the-badge&color=yellow&labelColor=yellow"/>
-</div>
-
-<div align="center">
-  
-### 💭 *"El código es poesía en movimiento - cada línea cuenta una historia"* 
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-✨ *Gracias por visitar mi universo digital. ¡Conectemos y construyamos algo extraordinario juntos!* ✨
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+> _"Construir software no es solo programar, es entender el problema."_
