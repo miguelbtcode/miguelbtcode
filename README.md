@@ -51,12 +51,11 @@ Backend system for a vehicle rental application, designed with Clean Architectur
 
 ## 📎 Links
 
-[![Website](https://img.shields.io/badge/Website-MiguelBarretoPortfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://miguelbarretodev.vercel.app
-)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/fta_capa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@MiguelBarreto-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguelbarretotorres/)
+[![Website](https://img.shields.io/badge/Website-MiguelBarretoPortfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://miguelbarretodev.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-@fta_capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/miguelbtcode)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@MiguelBarreto-487FCF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguelbarretotorres/)
 [![Blog](https://img.shields.io/badge/Blog-miguelbtcode-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://miguelbarretodev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-FE7A16?style=flat&logo=github&logoColor=white)](https:)
+[![GitHub](https://img.shields.io/badge/GitHub-miguelbtcode-FE7A16?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/miguelbtcode)
 
 
 ## 📬 Contacto
